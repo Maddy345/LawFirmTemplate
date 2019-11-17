@@ -29,10 +29,12 @@
     header #branding{
         float:left;
         margin-top:1%;
+   
     }
     header nav{
         float:right;
         margin-top:3%;
+        
     }
     header nav li{
         display:inline-block;
